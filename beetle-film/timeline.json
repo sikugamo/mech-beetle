@@ -1,0 +1,28 @@
+{
+  "duration": 20.4,
+  "fps": 60,
+  "ops": {
+    "horn": 3.2,
+    "legs": 6.0,
+    "wings": 9.0,
+    "hover": 11.8,
+    "explode": 13.6,
+    "assemble": 16.6,
+    "hero": 18.3
+  },
+  "events": {
+    "hornUp": {"t": 3.4, "duration": 0.8},
+    "hornDown": {"t": 5.3, "duration": 0.7},
+    "stop": {"t": 8.0, "duration": 1.3},
+    "elytraOpen": {"t": 9.2, "duration": 1.0},
+    "wingUnfold": {"t": 9.95, "duration": 1.7},
+    "beat": {"t": 11.95, "duration": 0.6},
+    "lift": {"t": 12.15, "duration": 0.9},
+    "burst": {"t": 13.75, "duration": 1.35},
+    "land": {"t": 13.75, "duration": 1.0},
+    "rebuild": {"t": 16.7, "duration": 1.35},
+    "wingFold": {"t": 17.25, "duration": 1.0},
+    "elytraClose": {"t": 17.95, "duration": 0.65},
+    "walk": {"t": 18.7, "duration": 1.0}
+  }
+}
