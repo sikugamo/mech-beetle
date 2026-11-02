@@ -2,7 +2,9 @@
 
 A 20-second, 1920×1080, 60 fps explainer film of a robotic rhinoceros beetle, with music and sound effects. It's built with the [teardown](https://github.com/elvarofficial/teardown) Claude Code skill, in the visual style of its demo videos. The beetle follows the concept sheet in `reference/concept-sheet.jpg`. All of it is built from code: no 3D model files, no keyframes, no recorded footage.
 
-**Output:** `render/dynastes-rb1.mp4`
+**▶ Watch the film: [`media/dynastes-rb1.mp4`](media/dynastes-rb1.mp4)** (20.4 s, 1920×1080, 60 fps, AAC stereo, 20 MB)
+
+Rendering locally writes a fresh copy to `render/dynastes-rb1.mp4`.
 
 ## What the film shows
 
